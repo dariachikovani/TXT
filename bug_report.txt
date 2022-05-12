@@ -1,1 +1,15 @@
-
+ID: Уникальный номер отчета
+Title: Что происходит,где происходит, когда происходит
+Project name: Официальное название проекта
+Build number: Номер версии
+Environment: Окружение
+Severity: Критичность бага
+Priority: Приоритет
+Status: Статус
+Author: Автор
+Assignet to: Рзработчик
+STR: Шаги к восроизведению
+Actual result: Фактический результат
+Expected result: Ожидаемы результат
+Attachments: Ссылка на фото или фидео
+Reported On: Дата
